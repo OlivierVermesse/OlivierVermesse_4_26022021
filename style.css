@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+.accessibility
+{
+    position: absolute;
+    left:-9999em;
+
+}
+
+/* .bloc .bgc-atomic-tangerine .d-bloc */
+#bloc-8
+{
+    position: relative;
+
+}
