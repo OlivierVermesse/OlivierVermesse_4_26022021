@@ -1060,3 +1060,8 @@ h4 {
 .citation{
     width: 100%;
 }
+
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
