@@ -17,9 +17,7 @@
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    -moz-osx-font-smoothing: grayscale
 }
 
 .fa-lg {

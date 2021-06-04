@@ -103,7 +103,7 @@ sub {
 }
 
 img {
-    border: 0;
+    border: 0
 }
 
 svg:not(:root) {
@@ -2066,7 +2066,7 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px;
+    padding-left: 15px
 }
 
 .col-xs-1,
@@ -7682,7 +7682,7 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #0000;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
